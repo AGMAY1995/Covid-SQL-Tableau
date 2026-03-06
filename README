@@ -1,0 +1,19 @@
+This SQL script analyzes COVID-19 case, death, and vaccination data to understand:
+
+Infection rates
+
+Death rates
+
+Impact by country and continent
+
+Global COVID statistics
+
+Vaccination progress relative to population
+
+It uses two datasets:
+
+CovidDeaths → case counts, deaths, population
+
+CovidVaccinations → vaccination data
+
+The final result is a SQL view that tracks vaccination progress by country over time for visualization or further analysis.
